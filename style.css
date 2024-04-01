@@ -2,7 +2,7 @@
 
  body 
 {
-        background-color: red ;
+        background-color: blue;
   background-image: linear-gradient(to right, blue, white);
   text-align:center;
 }
